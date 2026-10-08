@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 Perfil profesional
+### 👨‍💻 Perfil
 
 Ingeniero en Informática con experiencia en **desarrollo web full-stack** y **gestión de bases de datos**. Me especializo en backend con **PHP (Laravel)** y **Python (Flask)**, y en el desarrollo y la personalización de sitios en **WordPress** con plugins personalizados o *code snippets*. En el frontend trabajo con **JavaScript, HTML5 y CSS3**, integrados con bases de datos relacionales y no relacionales.
 
